@@ -15,8 +15,7 @@
     - [Age Group Analysis](#age-group-analysis)
     - [Sales Mode Analysis](#sales-mode-analysis)
 8. [Outcomes](#outcomes)
-9. [Project Video](#project-video)
-10. [Conclusion](#conclusion)
+9. [Conclusion](#conclusion)
 
 ## Overview
 This project was completed as part of the Codebasics Virtual Internship program. The primary objective was to analyze and visualize data from Shield Insurance using Power BI and SQL. The analysis focused on understanding customer demographics, revenue patterns, and the efficiency of different sales modes.
