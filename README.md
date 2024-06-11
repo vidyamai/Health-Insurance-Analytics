@@ -1,4 +1,4 @@
-# Health Insurance Data Analysis Project
+# Insurance Data Analysis Project
 
 
 ## Table of Contents
