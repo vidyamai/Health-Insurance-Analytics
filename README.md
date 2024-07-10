@@ -20,7 +20,7 @@
 This project was completed as part of the Codebasics Virtual Internship program. The primary objective was to analyze and visualize data from Shield Insurance using Power BI and SQL. The analysis focused on understanding customer demographics, revenue patterns, and the efficiency of different sales modes.
 
 ## Data Source
-The dataset provided by the codebasics which is a restricted data as it is confidential.
+The dataset provided from the Datawarehouse in a SQL file.
 
 ## Tools Used
 - **Power BI:** For data visualization and dashboard creation
