@@ -1,4 +1,4 @@
-# Insurance Data Analysis Project
+# Shield Insurance Data Analysis Project
 
 
 ## Table of Contents
